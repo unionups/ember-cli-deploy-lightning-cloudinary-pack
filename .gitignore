@@ -9,6 +9,7 @@
 /node_modules/
 
 # misc
+/.editorconfig
 /.env*
 /.pnp*
 /.sass-cache
