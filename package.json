@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-deploy-lightning-cloudinary-pack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An ember-cli-deploy plugin pack to implement a 'lightning' deployment pattern ( with Cloudinary CDN )",
   "keywords": [
     "ember-addon",
@@ -12,7 +12,7 @@
   "scripts": {},
   "dependencies": {
     "ember-cli-deploy-build": "^2.0.0",
-    "ember-cli-deploy-cloudinary": "^0.1.0",
+    "ember-cli-deploy-cloudinary": "^0.1.1",
     "ember-cli-deploy-display-revisions": "^1.0.1",
     "ember-cli-deploy-manifest": "^1.1.0",
     "ember-cli-deploy-plugin": "^0.2.9",
